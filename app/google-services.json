@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941016892496",
+    "project_id": "testapp-7e864",
+    "storage_bucket": "testapp-7e864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941016892496:android:2282cdb3f9bf45cdd8bd55",
+        "android_client_info": {
+          "package_name": "com.awoapp.mongodbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941016892496-akj80in47p2915p41rqs5vf98mkolf1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6s8mZsO5qqfyPVakWPRJwhduLKEzmI3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941016892496-akj80in47p2915p41rqs5vf98mkolf1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
